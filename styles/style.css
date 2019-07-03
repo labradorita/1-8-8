@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    text-align: center;
+    margin-top: 50%;
+    justify-content: center;
+}
+
+.sonrisa {
+    display: flex;
+    position: relative;
+}
